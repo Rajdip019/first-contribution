@@ -93,3 +93,4 @@
 - [Abhishek Vaishnav](https://github.com/abhishek0777)
 - [Sahil Singh](https://github.com/SahilSingh177)
 - [Vijay2249](https://github.com/vijay2249)
+- [Paramhans Singh](https://github.com/Paramhans-Singh)
