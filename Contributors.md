@@ -1,5 +1,6 @@
 # Contributors
 
+- [Danish Zayan](https://github.com/danishzayan)
 - [Sneha Singh](https://github.com/Sneha0607)
 - [Rajdeep Sengupta](https://github.com/Rajdip019/Rajdip019)
 - [Asma Kacem](https://github.com/AsmaKacem1)
@@ -73,6 +74,7 @@
 - [Ashwin Taras](https://github.com/BlackBolt2003)
 - [Jahnvi](https://github.com/jahnvi15)
 - [Pranjal Raj](https://github.com/pranjal-raj)
+- [Sarthak Sachdeva](https://github.com/sarthakk24)
 - [Taduri Saimahesh](https://github.com/saimaheshtaduri)
 - [Annu Priya](https://github.com/annupriy)
 - [Sahil Singh](https://github.com/SahilSingh177)
@@ -82,6 +84,12 @@
 - [Nitesh Kumar](https://github.com/nktech-official)
 - [Yash Seth](https://github.com/yash-seth)
 - [Sainath Poojary](https://github.com/sainathpoojary)
+- [Divine Edwin](https://github.com/Cheeh1)
 - [Rahul Kumar Barnwal](https://github.com/rahulgithub-web)
 - [Aditya Prakash](https://github.com/MarkL50)
+- [Subham Bhattacharya](https://github.com/SubxX)
 - [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag)
+- [Hamza Nawab](https://github.com/blazenn2)
+- [Abhishek Vaishnav](https://github.com/abhishek0777)
+- [Sahil Singh](https://github.com/SahilSingh177)
+- [Vijay2249](https://github.com/vijay2249)
