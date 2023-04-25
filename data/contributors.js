@@ -2650,7 +2650,7 @@ contributors.unshift(
     college: "FreeCodeCamp",
     year: 2023,
     linkedin: "https://www.linkedin.com/in/isaac-harrison-bb0199219/",
-    github: "https://github.com/IsaacHarrison28/",
+    github: "https://github.com/IsaacHarrison28",
     gender: "Male",
   }
 );
