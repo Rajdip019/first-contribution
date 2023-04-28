@@ -2643,6 +2643,15 @@ contributors.unshift(
     linkedin: "https://www.linkedin.com/in/debajyoti-saha-37bb78219/",
     github: "https://github.com/Debajyoti14",
     gender: "Male",
+  },
+  {
+    name: "Isaac Harrison",
+    branch: "CSBS",
+    college: "FreeCodeCamp",
+    year: 2023,
+    linkedin: "https://www.linkedin.com/in/isaac-harrison-bb0199219/",
+    github: "https://github.com/IsaacHarrison28",
+    gender: "Male",
   }
 );
 
